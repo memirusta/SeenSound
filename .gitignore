@@ -1,0 +1,6 @@
+# Local machine config
+android/local.properties
+
+# Flutter generated files
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
