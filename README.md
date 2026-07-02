@@ -1,4 +1,4 @@
-# SEE SOUND (EaRise)
+# SeenSound (EaRise)
 
 A mobile app that translates **Turkish ↔ Turkish Sign Language (TİD)** using a 3D animated character.
 
@@ -91,7 +91,7 @@ lib/
 ## License
 
 MIT — see [LICENSE](LICENSE).  
-Copyright (c) 2024 Furkan Baytak. Contributors: EaRise / GençBizz team (Furkan Baytak, Mehmet Emir Usta).
+Copyright (c) 2024 Furkan Baytak. Contributors: EaRise / GençBizz team.
 
 ## Disclaimer
 
