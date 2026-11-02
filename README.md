@@ -20,7 +20,7 @@ Built for **GençBizz** (Turkish high-school entrepreneurship program). **EaRise
 | Backend | Firebase Auth, Cloud Firestore, Firebase Storage |
 | Speech | `speech_to_text` |
 | Media | `video_player` |
-| Animations | Blender (40 sign-language words, authored in 2 weeks) |
+| Animations | Blender |
 
 ## Screenshots
 
@@ -80,7 +80,7 @@ lib/
 | | Role |
 |---|------|
 | **[Furkan Baytak](https://www.linkedin.com/in/baytakfurkan/)** | Lead developer — most of the app architecture, Flutter implementation, and Firebase integration |
-| **[Mehmet Emir Usta](https://www.linkedin.com/in/mehmet-emir-usta-560831256/)** | Co-founder & developer — Blender sign-language animations (40 words in 2 weeks), product direction, GençBizz |
+| **[Mehmet Emir Usta](https://www.linkedin.com/in/mehmet-emir-usta-560831256/)** | Co-founder & developer — Blender sign-language animations, product direction, GençBizz |
 
 ## Developer
 
